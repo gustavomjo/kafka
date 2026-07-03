@@ -26,7 +26,7 @@ Este projeto tem como objetivo estudar e praticar os conceitos do **Apache Kafka
 
 Este projeto utiliza Docker para facilitar a execução do Kafka.
 
-### 📄 Exemplo de `docker-compose.yml`
+### 📄  `docker-compose.yml`
 
 ```yaml
 version: '3'
