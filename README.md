@@ -1,6 +1,7 @@
 # 📦 Projeto de Estudos - Apache Kafka
 
 Este projeto tem como objetivo estudar e praticar os conceitos do **Apache Kafka**, incluindo produção e consumo de mensagens, além da execução do Kafka em ambiente containerizado.
+Também foram realizados **testes de sobrecarga (load/stress testing)** para entender o comportamento do Kafka sob alta concorrência de requisições.
 
 ---
 
