@@ -10,7 +10,7 @@ Também foram realizados **testes de sobrecarga (load/stress testing)** para ent
 Kafka.Producer.API
 └── LoadTests
     └── TesteSobrecarga.js
-` ``` `
+```
 ---
 
 ## 🚀 Objetivo
