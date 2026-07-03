@@ -6,6 +6,7 @@ Também foram realizados **testes de sobrecarga (load/stress testing)** para ent
 
 ## 🧪 Estrutura dos Testes de Carga
 
+```text
 Kafka.Producer.API
 └── LoadTests
     └── TesteSobrecarga.js
