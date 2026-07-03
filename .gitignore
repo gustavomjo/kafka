@@ -1,0 +1,41 @@
+## .NET
+bin
+obj
+.user
+.suo
+.cache
+.dll
+.exe
+.pdb
+.log
+
+## Visual Studio
+.vs
+.vscode
+
+## User secrets
+secrets.json
+
+## App settings locais (opcional)
+appsettings.Development.json
+
+## Kafka  testes locais
+.log
+k6-results
+LoadTestsresults
+LoadTests.csv
+LoadTests.json
+
+## Docker
+docker-compose.override.yml
+
+## OS
+.DS_Store
+Thumbs.db
+
+## JetBrains Rider
+.idea
+
+## NPM (caso use frontend futuramente)
+node_modules
+dist
