@@ -5,7 +5,9 @@ Este projeto tem como objetivo estudar e praticar os conceitos do **Apache Kafka
 Também foram realizados **testes de sobrecarga (load/stress testing)** para entender o comportamento do Kafka sob alta concorrência de requisições.
 
   Kafka.Producer.API
+  
   └── LoadTests
+  
   └── TesteSobrecarga.js
 
 ---
